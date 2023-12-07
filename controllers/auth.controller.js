@@ -1,4 +1,3 @@
 export const signup = (req, res) => {
-
-    req.body
+console.log(req.body);
 }
